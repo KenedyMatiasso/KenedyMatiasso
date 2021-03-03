@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KenedyMatiasso
-- I'm an aerospace engineering student. I'm interested in modeling and simulation.
+- I'm interested in modeling and simulation.
 - I'm currently working on an Opensource platform for aerospace systems modeling, simulation and analysis based on Bond Graph.
 
 
